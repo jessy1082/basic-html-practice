@@ -1,0 +1,31 @@
+header{
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+}
+section {
+    display: flex;
+}
+/*  display: flex ignores div break that suppose to do */
+img{
+   width: 4% ;
+}
+#text1{
+    /* margin-left: 50%;
+    margin-bottom: 20px;
+    margin-top: 15px; */
+    margin: 15px 0 30px 50%;
+}
+#text2{
+    margin: 15px 10% 20px 0;
+}
+#searchinput {
+    margin-left: 5%;
+}
+#search{
+    position: absolute;
+    margin-top: 19px;
+    margin-left: 5px;
+    width: 23px;
+}
