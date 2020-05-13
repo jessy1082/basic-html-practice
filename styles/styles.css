@@ -9,7 +9,7 @@ section {
 }
 /*  display: flex ignores div break that suppose to do */
 img{
-   width: 4% ;
+   width: 5% ;
 }
 #text1{
     /* margin-left: 50%;
